@@ -1,0 +1,6 @@
+interface:
+  display_name: "纳瓦尔宝典"
+  short_description: "职业、产品化、合作与目标取舍时自动补充纳瓦尔视角"
+  default_prompt: "使用 $yao-naval-almanack-skill，结合我的事实与限制，给出判断、出处、行动和改判条件。"
+policy:
+  allow_implicit_invocation: true

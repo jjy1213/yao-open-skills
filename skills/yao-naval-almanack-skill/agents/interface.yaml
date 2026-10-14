@@ -1,0 +1,20 @@
+interface:
+  display_name: "纳瓦尔宝典"
+  short_description: "职业、产品化、合作与目标取舍时自动补充纳瓦尔视角"
+  default_prompt: "使用 $yao-naval-almanack-skill，结合我的事实与限制，给出判断、出处、行动和改判条件。"
+compatibility:
+  canonical_format: "agent-skills"
+  adapter_targets: ["openai", "generic"]
+  activation:
+    mode: "semantic"
+    paths: []
+  execution:
+    context: "inline"
+    shell: "bash"
+  trust:
+    source_tier: "local"
+    remote_inline_execution: "forbid"
+    remote_metadata_policy: "allow-metadata-only"
+  degradation:
+    openai: "agent-skills-source"
+    generic: "neutral-source"

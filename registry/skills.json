@@ -1,6 +1,6 @@
 {
   "repo_name": "yao-open-skills",
-  "updated_at": "2026-08-28",
+  "updated_at": "2026-10-14",
   "skills": [
     {
       "slug": "yao-bayesian-skill",
@@ -265,6 +265,29 @@
       ],
       "last_synced_at": "2026-05-04",
       "updated_at": "2026-06-13"
+    },
+    {
+      "slug": "yao-naval-almanack-skill",
+      "title": "Yao Naval Almanack Skill",
+      "summary": "用《纳瓦尔宝典》的专长、杠杆、判断力与幸福观，分析职业选择、服务产品化、长期合作、工作复盘和目标取舍，给出判断、出处、行动与改判条件。",
+      "source_local_path": "../yao-naval-almanack-skill",
+      "collection_path": "skills/yao-naval-almanack-skill",
+      "lifecycle": "active",
+      "sync_status": "staged",
+      "github_repo": "yao-open-skills",
+      "github_url": "",
+      "guide_path": "docs/skills/yao-naval-almanack-skill.md",
+      "license": "MIT",
+      "tags": [
+        "naval",
+        "career",
+        "productization",
+        "decision-analysis",
+        "long-term",
+        "happiness"
+      ],
+      "last_synced_at": null,
+      "updated_at": "2026-10-14"
     },
     {
       "slug": "yao-open-skills-sync",

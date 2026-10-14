@@ -20,6 +20,7 @@ Current guides:
 - [yao-gametheory-skill](yao-gametheory-skill.md)
 - [yao-interpreter-skill](yao-interpreter-skill.md)
 - [yao-kelly-skill](yao-kelly-skill.md)
+- [yao-naval-almanack-skill](yao-naval-almanack-skill.md)
 - [yao-positioning-skill](yao-positioning-skill.md)
 - [yao-tutorial-skill](yao-tutorial-skill.md)
 - [yao-weread-skill](yao-weread-skill.md)
