@@ -273,9 +273,9 @@
       "source_local_path": "../yao-naval-almanack-skill",
       "collection_path": "skills/yao-naval-almanack-skill",
       "lifecycle": "active",
-      "sync_status": "staged",
+      "sync_status": "published",
       "github_repo": "yao-open-skills",
-      "github_url": "",
+      "github_url": "https://github.com/yaojingang/yao-open-skills/tree/main/skills/yao-naval-almanack-skill",
       "guide_path": "docs/skills/yao-naval-almanack-skill.md",
       "license": "MIT",
       "tags": [
@@ -286,7 +286,7 @@
         "long-term",
         "happiness"
       ],
-      "last_synced_at": null,
+      "last_synced_at": "2026-10-14",
       "updated_at": "2026-10-14"
     },
     {
